@@ -23,6 +23,7 @@
   "devDependencies": {
     "@stencil/dev-server": "latest",
     "@stencil/utils": "latest",
+    "@storybook/polymer": "^3.3.0-alpha.3",
     "@types/jest": "^21.1.1",
     "jest": "^21.2.1"
   },
